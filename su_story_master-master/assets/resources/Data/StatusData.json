@@ -1,0 +1,198 @@
+[
+  {
+    "id": "状态编号",
+    "status": "状态名称",
+    "immuneStatus": "状态免疫状态",
+    "description": "描述",
+    "time": "持续时间"
+  },
+  {
+    "id": 1,
+    "status": "龙",
+    "immuneStatus": "燃烧、潮湿、中毒、感电、冰冻、眩晕",
+    "description": "玩家击杀数每多1个，造成伤害增加5%（设定为龙贪财，玩家财力（击杀数）越高，越有杀伤力。",
+    "time": 999
+  },
+  {
+    "id": 2,
+    "status": "机械",
+    "immuneStatus": "燃烧、冰冻、中毒、眩晕、溃烂、病毒",
+    "description": "感电、强电流 状态的触发效果x2",
+    "time": 999
+  },
+  {
+    "id": 3,
+    "status": "精灵",
+    "immuneStatus": "潮湿、眩晕、感电、强电流",
+    "description": "溃烂、分解 状态的触发效果x2",
+    "time": 999
+  },
+  {
+    "id": 4,
+    "status": "血族",
+    "immuneStatus": "中毒、溃烂、腐蚀",
+    "description": "燃烧、微波 状态的触发效果x2（怕阳光与火）",
+    "time": 999
+  },
+  {
+    "id": 5,
+    "status": "自然",
+    "immuneStatus": "潮湿、眩晕、感电、强电流、中毒、冰冻、腐蚀",
+    "description": "燃烧、分解 状态的触发效果x2",
+    "time": 999
+  },
+  {
+    "id": 6,
+    "status": "燃烧",
+    "immuneStatus": "燃烧",
+    "description": "每结束一回合受到5点伤害",
+    "time": 2
+  },
+  {
+    "id": 7,
+    "status": "潮湿",
+    "immuneStatus": "潮湿",
+    "description": "有此状态对敌伤害降低一半",
+    "time": 2
+  },
+  {
+    "id": 8,
+    "status": "中毒",
+    "immuneStatus": "中毒",
+    "description": "每结束一回合造成5点伤害",
+    "time": 3
+  },
+  {
+    "id": 9,
+    "status": "感电",
+    "immuneStatus": "感电",
+    "description": "受到的伤害加倍",
+    "time": 1
+  },
+  {
+    "id": 10,
+    "status": "眩晕",
+    "immuneStatus": "眩晕",
+    "description": "出牌点数混乱",
+    "time": 1
+  },
+  {
+    "id": 11,
+    "status": "溃烂",
+    "immuneStatus": "溃烂",
+    "description": "每结束一回合受到8点伤害",
+    "time": 2
+  },
+  {
+    "id": 12,
+    "status": "微波",
+    "immuneStatus": "微波",
+    "description": "每出一张牌就受到6点伤害",
+    "time": 1
+  },
+  {
+    "id": 13,
+    "status": "感染",
+    "immuneStatus": "感染",
+    "description": "每结束一回合造成10点伤害",
+    "time": 5
+  },
+  {
+    "id": 14,
+    "status": "强电流",
+    "immuneStatus": "强电流",
+    "description": "状态回合内种族特性失效",
+    "time": 5
+  },
+  {
+    "id": 15,
+    "status": "化学灼烧",
+    "immuneStatus": "化学灼烧",
+    "description": "无视种族每回合结束造成4点伤害",
+    "time": 3
+  },
+  {
+    "id": 16,
+    "status": "恐惧",
+    "immuneStatus": "恐惧",
+    "description": "面对强大的敌人使你感到恐惧，你的点数减少2点",
+    "time": 999
+  },
+  {
+    "id": 17,
+    "status": "力竭",
+    "immuneStatus": "力竭",
+    "description": "因为某种因素，你的力气变小了，伤害减半。",
+    "time": 999
+  },
+  {
+    "id": 18,
+    "status": "不安",
+    "immuneStatus": "不安",
+    "description": "面对未知你感到了不安，你将无法看到当前手牌。",
+    "time": 1
+  },
+  {
+    "id": 19,
+    "status": "被注视",
+    "immuneStatus": "被注视",
+    "description": "你感到了被某种邪恶存在所注视，点数混乱（1-10）",
+    "time": 2
+  },
+  {
+    "id": 20,
+    "status": "迅猛",
+    "immuneStatus": null,
+    "description": "你吃了某种假冒伪劣的药品，你每回合可以多抽一张牌。",
+    "time": 2
+  },
+  {
+    "id": 21,
+    "status": "像素化",
+    "immuneStatus": null,
+    "description": "被降维了",
+    "time": 999
+  },
+  {
+    "id": 22,
+    "status": "战士药剂",
+    "immuneStatus": null,
+    "description": "名牌药剂，攻击力+2点",
+    "time": 2
+  },
+  {
+    "id": 23,
+    "status": "流血",
+    "immuneStatus": "流血",
+    "description": "被利器割伤，每回合受到2点伤害。",
+    "time": 999
+  },
+  {
+    "id": 24,
+    "status": "成群结队",
+    "immuneStatus": null,
+    "description": "成群结队，伤害X2",
+    "time": 999
+  },
+  {
+    "id": 25,
+    "status": "锁定",
+    "immuneStatus": null,
+    "description": "任何手段都无法免疫或减少即将受到的伤害。",
+    "time": 1
+  },
+  {
+    "id": 26,
+    "status": "缴械",
+    "immuneStatus": null,
+    "description": "下回合手牌减少2张",
+    "time": 1
+  },
+  {
+    "id": null,
+    "status": null,
+    "immuneStatus": null,
+    "description": null,
+    "time": null
+  }
+]

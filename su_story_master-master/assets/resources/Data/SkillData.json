@@ -1,0 +1,1186 @@
+[
+  {
+    "id": "编号",
+    "name": "技能名称",
+    "cardAtt": "技能类型",
+    "cardValue": "技能数值",
+    "status": "技能附加状态，特殊状态的先不管",
+    "description": "描述"
+  },
+  {
+    "id": 1,
+    "name": "普通攻击1",
+    "cardAtt": 0,
+    "cardValue": 1,
+    "status": null,
+    "description": "造成力量攻击1点"
+  },
+  {
+    "id": 2,
+    "name": "普通攻击2",
+    "cardAtt": 1,
+    "cardValue": 1,
+    "status": null,
+    "description": "造成速度攻击1点"
+  },
+  {
+    "id": 3,
+    "name": "普通攻击3",
+    "cardAtt": 2,
+    "cardValue": 1,
+    "status": null,
+    "description": "造成技巧攻击1点"
+  },
+  {
+    "id": 4,
+    "name": "普通攻击4",
+    "cardAtt": 0,
+    "cardValue": 4,
+    "status": null,
+    "description": "造成力量攻击4点"
+  },
+  {
+    "id": 5,
+    "name": "普通攻击5",
+    "cardAtt": 1,
+    "cardValue": 4,
+    "status": null,
+    "description": "造成力量攻击4点"
+  },
+  {
+    "id": 6,
+    "name": "普通攻击6",
+    "cardAtt": 2,
+    "cardValue": 4,
+    "status": null,
+    "description": "造成速度攻击4点"
+  },
+  {
+    "id": 7,
+    "name": "普通攻击7",
+    "cardAtt": 0,
+    "cardValue": 9,
+    "status": null,
+    "description": "造成技巧攻击9点"
+  },
+  {
+    "id": 8,
+    "name": "普通攻击8",
+    "cardAtt": 1,
+    "cardValue": 9,
+    "status": null,
+    "description": "造成力量攻击9点"
+  },
+  {
+    "id": 9,
+    "name": "普通攻击9",
+    "cardAtt": 2,
+    "cardValue": 9,
+    "status": null,
+    "description": "造成力量攻击9点"
+  },
+  {
+    "id": 10,
+    "name": "史莱姆溅射",
+    "cardAtt": 2,
+    "cardValue": 5,
+    "status": 7,
+    "description": "造成5点伤害同时增加一个持续2回合的潮湿BUFF。"
+  },
+  {
+    "id": 11,
+    "name": "拜年剑法",
+    "cardAtt": 0,
+    "cardValue": 10,
+    "status": null,
+    "description": "造成力量攻击10点"
+  },
+  {
+    "id": 12,
+    "name": "大风车剑法",
+    "cardAtt": 0,
+    "cardValue": 15,
+    "status": null,
+    "description": "造成力量攻击15点"
+  },
+  {
+    "id": 13,
+    "name": "小恶魔咆哮",
+    "cardAtt": 2,
+    "cardValue": 4,
+    "status": 10,
+    "description": "造成技巧攻击8点同时增加一个持续2回合的眩晕BUFF。"
+  },
+  {
+    "id": 14,
+    "name": "尸毒",
+    "cardAtt": 3,
+    "cardValue": 0,
+    "status": 8,
+    "description": "施加中毒持续至战斗结束"
+  },
+  {
+    "id": 15,
+    "name": "飞刀",
+    "cardAtt": 2,
+    "cardValue": 3,
+    "status": 23,
+    "description": "造成技巧攻击3点的同时施加一个持续至战斗结束的流血BUFF。"
+  },
+  {
+    "id": 16,
+    "name": "成群结队",
+    "cardAtt": 2,
+    "cardValue": 0,
+    "status": 24,
+    "description": "被动技能，对于某些种族来说，成群结队行动更安全。伤害X2"
+  },
+  {
+    "id": 17,
+    "name": "光杆司令之怒",
+    "cardAtt": 2,
+    "cardValue": 15,
+    "status": null,
+    "description": "哥布林独家技巧，造成技巧攻击15点。"
+  },
+  {
+    "id": 18,
+    "name": "野兽扑咬",
+    "cardAtt": 0,
+    "cardValue": 4,
+    "status": 23,
+    "description": "造成力量攻击4点同时施加一个持续至战斗结束的 流血BUFF."
+  },
+  {
+    "id": 19,
+    "name": "野蛮冲撞",
+    "cardAtt": 0,
+    "cardValue": 10,
+    "status": null,
+    "description": "造成力量攻击10点"
+  },
+  {
+    "id": 20,
+    "name": "疯狂乱抓",
+    "cardAtt": 1,
+    "cardValue": 3,
+    "status": "x3",
+    "description": "造成速度攻击3点3次"
+  },
+  {
+    "id": 21,
+    "name": "邪恶沾染",
+    "cardAtt": 2,
+    "cardValue": 0,
+    "status": 18,
+    "description": "施加一个不安BUFF，无法看到手牌一回合。"
+  },
+  {
+    "id": 22,
+    "name": "水中恶鬼",
+    "cardAtt": 2,
+    "cardValue": 3,
+    "status": 7,
+    "description": "猛地从水中钻出造成3点技巧伤害，并施加一个持续2回合的潮湿BUFF。"
+  },
+  {
+    "id": 23,
+    "name": "王八拳",
+    "cardAtt": 0,
+    "cardValue": 6,
+    "status": "x2",
+    "description": "王八拳法，最难掌握也最为高超的拳法造成6点伤害2次。"
+  },
+  {
+    "id": 24,
+    "name": "触手缠绕",
+    "cardAtt": 2,
+    "cardValue": 5,
+    "status": 7,
+    "description": "水中伸出邪恶的触手将你捆了个结实，同时造成了5点技巧伤害施加持续2回合潮湿BUFF。"
+  },
+  {
+    "id": 25,
+    "name": "探云手",
+    "cardAtt": 2,
+    "cardValue": 3,
+    "status": 17,
+    "description": "造成技巧伤害3点，并施加了持续两回合的力竭BUFF。"
+  },
+  {
+    "id": 26,
+    "name": "莽夫刀法",
+    "cardAtt": 0,
+    "cardValue": 15,
+    "status": 25,
+    "description": "造成力量伤害15点，同时施加一个持续1回合的锁定BUFF。"
+  },
+  {
+    "id": 27,
+    "name": "莽夫之力",
+    "cardAtt": 0,
+    "cardValue": 8,
+    "status": 25,
+    "description": "造成力量伤害8点，同时施加一个持续3回合的锁定BUFF。"
+  },
+  {
+    "id": 28,
+    "name": "净身",
+    "cardAtt": 2,
+    "cardValue": 5,
+    "status": 26,
+    "description": "造成技巧伤害5点，同时是加一个持续1回合的缴械BUFF。"
+  },
+  {
+    "id": 29,
+    "name": "尖刺发射",
+    "cardAtt": 2,
+    "cardValue": 10,
+    "status": 23,
+    "description": "造成技巧伤害10点，同时施加一个持续至战斗结束的流血BUFF。"
+  },
+  {
+    "id": 30,
+    "name": "投矛",
+    "cardAtt": 0,
+    "cardValue": 8,
+    "status": null,
+    "description": "造成力量伤害8点"
+  },
+  {
+    "id": 31,
+    "name": "恶魔咆哮",
+    "cardAtt": 2,
+    "cardValue": 8,
+    "status": 10,
+    "description": "造成技巧伤害8点同时施加一个持续3回合的眩晕buff。"
+  },
+  {
+    "id": 32,
+    "name": "迅猛突袭",
+    "cardAtt": 1,
+    "cardValue": 8,
+    "status": 23,
+    "description": "造成速度8点伤害同时施加流血BUFF"
+  },
+  {
+    "id": 33,
+    "name": "猪猪冲撞",
+    "cardAtt": 0,
+    "cardValue": 10,
+    "status": null,
+    "description": "造成力量10点伤害"
+  },
+  {
+    "id": 34,
+    "name": "利牙狂暴",
+    "cardAtt": 1,
+    "cardValue": 5,
+    "status": "x3",
+    "description": "造成速度攻击5点3次"
+  },
+  {
+    "id": 35,
+    "name": "不详吐息",
+    "cardAtt": 2,
+    "cardValue": 3,
+    "status": 8,
+    "description": "造成技巧攻击3点同时是加一个持续至战斗结束的中毒BUFF。"
+  },
+  {
+    "id": 36,
+    "name": "翻滚绞杀",
+    "cardAtt": 2,
+    "cardValue": 15,
+    "status": null,
+    "description": "造成技巧攻击15点。"
+  },
+  {
+    "id": 37,
+    "name": "卫兵冲锋",
+    "cardAtt": 1,
+    "cardValue": 10,
+    "status": 10,
+    "description": "造成速、技攻击10点，同时施加一个持续1回合的眩晕BUFF。"
+  },
+  {
+    "id": 38,
+    "name": "凶神恶煞",
+    "cardAtt": 2,
+    "cardValue": 0,
+    "status": 16,
+    "description": "施加一个持续到战斗结束的恐惧BUFF。"
+  },
+  {
+    "id": 39,
+    "name": "投斧",
+    "cardAtt": 0,
+    "cardValue": 8,
+    "status": null,
+    "description": "造成力量攻击8点。"
+  },
+  {
+    "id": 40,
+    "name": "邪恶仪式",
+    "cardAtt": 2,
+    "cardValue": 0,
+    "status": 22,
+    "description": "给释放者施加一个战士药剂BUFF。（攻击力+2）"
+  },
+  {
+    "id": 41,
+    "name": "冻结",
+    "cardAtt": 2,
+    "cardValue": null,
+    "status": 26,
+    "description": "施加一个持续1回合的缴械buff。"
+  },
+  {
+    "id": 42,
+    "name": "诅咒",
+    "cardAtt": 2,
+    "cardValue": 0,
+    "status": 18,
+    "description": "施加一个持续1回合的不安buff。"
+  },
+  {
+    "id": 43,
+    "name": "大恶魔咆哮",
+    "cardAtt": 0,
+    "cardValue": 18,
+    "status": null,
+    "description": "造成力、技攻击18点。"
+  },
+  {
+    "id": 44,
+    "name": "熊的力量",
+    "cardAtt": 0,
+    "cardValue": 20,
+    "status": null,
+    "description": "造成力量攻击20点。"
+  },
+  {
+    "id": 45,
+    "name": "大火球术",
+    "cardAtt": 2,
+    "cardValue": 10,
+    "status": 6,
+    "description": "造成技巧攻击10点，同时施加一个持续3回合的燃烧buff."
+  },
+  {
+    "id": 46,
+    "name": "恶魔斩",
+    "cardAtt": 0,
+    "cardValue": 22,
+    "status": null,
+    "description": "造成力量攻击22点。"
+  },
+  {
+    "id": 47,
+    "name": "恶魔旋风斩",
+    "cardAtt": 0,
+    "cardValue": 10,
+    "status": "x3",
+    "description": "造成力、技攻击10点3次。"
+  },
+  {
+    "id": 48,
+    "name": "不可名状",
+    "cardAtt": 2,
+    "cardValue": 0,
+    "status": 19,
+    "description": "施加一个持续至战斗结束的被注视BUFF。"
+  },
+  {
+    "id": 49,
+    "name": "劫富济贫",
+    "cardAtt": 2,
+    "cardValue": 0,
+    "status": 26,
+    "description": "施加一个持续至战斗结束的缴械buff."
+  },
+  {
+    "id": 50,
+    "name": "替天行盗",
+    "cardAtt": 2,
+    "cardValue": 0,
+    "status": 25,
+    "description": "施加一个持续至战斗结束的锁定BUFF。"
+  },
+  {
+    "id": 51,
+    "name": "大地裂击",
+    "cardAtt": 0,
+    "cardValue": 30,
+    "status": 10,
+    "description": "造成力量攻击30点同时施加一个持续1回合的眩晕BUFF。"
+  },
+  {
+    "id": 52,
+    "name": "史莱姆炸弹",
+    "cardAtt": 2,
+    "cardValue": 33,
+    "status": 6,
+    "description": "造成技巧伤害33点同时施加一个燃烧BUFF持续3回合。"
+  },
+  {
+    "id": 53,
+    "name": "烈焰龙爪",
+    "cardAtt": 3,
+    "cardValue": 25,
+    "status": 6,
+    "description": "造成25点伤害并触发燃烧持续5回合 （烈焰龙爪）"
+  },
+  {
+    "id": 54,
+    "name": "火龙爪击",
+    "cardAtt": 3,
+    "cardValue": 20,
+    "status": 6,
+    "description": "造成20点伤害并触发燃烧持续3回合 （火龙爪击）"
+  },
+  {
+    "id": 55,
+    "name": "雷龙吐息",
+    "cardAtt": 3,
+    "cardValue": 10,
+    "status": 9,
+    "description": "造成10点伤害并触发感电持续1回合 （雷龙吐息）"
+  },
+  {
+    "id": 56,
+    "name": "冰龙吐息",
+    "cardAtt": 3,
+    "cardValue": 15,
+    "status": 26,
+    "description": "造成15点伤害并触发缴械持续1回合 （冰龙吐息）"
+  },
+  {
+    "id": 57,
+    "name": "百万吨踩踏",
+    "cardAtt": 3,
+    "cardValue": 40,
+    "status": 10,
+    "description": "造成40点伤害1次触发眩晕持续1回合 （百万吨踩踏）"
+  },
+  {
+    "id": 58,
+    "name": "分解射线",
+    "cardAtt": 3,
+    "cardValue": 15,
+    "status": 11,
+    "description": "造成3点伤害 5 次并触发溃烂持续1回合 （分解射线）"
+  },
+  {
+    "id": 59,
+    "name": "微波射线",
+    "cardAtt": 3,
+    "cardValue": 10,
+    "status": 12,
+    "description": "造成2点伤害 5 次并触发微波持续2回合 （微波射线）"
+  },
+  {
+    "id": 60,
+    "name": "自然法则",
+    "cardAtt": 3,
+    "cardValue": 15,
+    "status": 11,
+    "description": "造成15点伤害并触发溃烂持续5回合 （自然法则）"
+  },
+  {
+    "id": 61,
+    "name": "狙击要害",
+    "cardAtt": 3,
+    "cardValue": 30,
+    "status": null,
+    "description": "造成30点伤害  （狙击要害）"
+  },
+  {
+    "id": 62,
+    "name": "灰飞烟灭",
+    "cardAtt": 3,
+    "cardValue": 20,
+    "status": 11,
+    "description": "造成10点伤害2次并触发溃烂持续3回合 （灰飞烟灭）"
+  },
+  {
+    "id": 63,
+    "name": "血契",
+    "cardAtt": 3,
+    "cardValue": 25,
+    "status": "特殊效果",
+    "description": "造成5点伤害 5次 并回复自身血量百分比的50%（血契）"
+  },
+  {
+    "id": 64,
+    "name": "再生之躯",
+    "cardAtt": 3,
+    "cardValue": 1,
+    "status": "特殊效果",
+    "description": "造成1点伤害并回复自身所有血量 （再生之躯）"
+  },
+  {
+    "id": 65,
+    "name": "毁灭你！",
+    "cardAtt": 3,
+    "cardValue": 10,
+    "status": 13,
+    "description": "造成10点伤害并触发13持续1回合 （毁灭你！）"
+  },
+  {
+    "id": 66,
+    "name": "灵魂颤栗",
+    "cardAtt": 3,
+    "cardValue": 30,
+    "status": 10,
+    "description": "造成30点伤害并触发眩晕持续5回合 （灵魂颤栗）"
+  },
+  {
+    "id": 67,
+    "name": "缠绕",
+    "cardAtt": 3,
+    "cardValue": 5,
+    "status": 10,
+    "description": "造成5点伤害并触发眩晕直到战斗结束 （缠绕）"
+  },
+  {
+    "id": 68,
+    "name": "冰风暴",
+    "cardAtt": 3,
+    "cardValue": 25,
+    "status": 25,
+    "description": "造成25点伤害并触发锁定持续2回合 （冰风暴）"
+  },
+  {
+    "id": 69,
+    "name": "强力龙摆尾",
+    "cardAtt": 3,
+    "cardValue": 20,
+    "status": 10,
+    "description": "造成10点伤害2次并触发眩晕持续2回合 （强力龙摆尾）"
+  },
+  {
+    "id": 70,
+    "name": "火龙旋风滚",
+    "cardAtt": 3,
+    "cardValue": 24,
+    "status": null,
+    "description": "造成8点伤害 3 次   （火龙旋风滚）"
+  },
+  {
+    "id": 71,
+    "name": "连锁闪电",
+    "cardAtt": 3,
+    "cardValue": 15,
+    "status": null,
+    "description": "造成3点伤害 5 次   （连锁闪电）"
+  },
+  {
+    "id": 72,
+    "name": "冰龙蛮力",
+    "cardAtt": 3,
+    "cardValue": 25,
+    "status": null,
+    "description": "造成25点伤害 1 次  （冰龙蛮力）"
+  },
+  {
+    "id": 73,
+    "name": "金刚组合拳",
+    "cardAtt": 3,
+    "cardValue": 30,
+    "status": null,
+    "description": "造成15点伤害 2 次  （金刚组合拳）"
+  },
+  {
+    "id": 74,
+    "name": "电力崩解",
+    "cardAtt": 3,
+    "cardValue": 10,
+    "status": 9,
+    "description": "造成10点伤害并触发感电状态持续2回合 （电力崩解）"
+  },
+  {
+    "id": 75,
+    "name": "游离之枪",
+    "cardAtt": 3,
+    "cardValue": 15,
+    "status": 14,
+    "description": "造成 3点伤害 5 次并触发强电流持续1回合 （游离之枪）"
+  },
+  {
+    "id": 76,
+    "name": "医者仁心",
+    "cardAtt": 3,
+    "cardValue": 10,
+    "status": 8,
+    "description": "造成5点伤害2次并触发中毒持续5回合  （医者仁心）"
+  },
+  {
+    "id": 77,
+    "name": "毒箭雨",
+    "cardAtt": 3,
+    "cardValue": 15,
+    "status": 8,
+    "description": "造成5点伤害3次并触发中毒持续3回合   （毒箭雨）"
+  },
+  {
+    "id": 78,
+    "name": "烈火缠身",
+    "cardAtt": 3,
+    "cardValue": 24,
+    "status": 6,
+    "description": "造成8点伤害 3 次并触发燃烧持续3回合 （烈火缠身）"
+  },
+  {
+    "id": 79,
+    "name": "拥吻",
+    "cardAtt": 3,
+    "cardValue": 20,
+    "status": "特殊效果",
+    "description": "造成10点伤害2次 并回复自身血量百分比的10%  （拥吻）"
+  },
+  {
+    "id": 80,
+    "name": "血液滋润",
+    "cardAtt": 3,
+    "cardValue": 6,
+    "status": "特殊效果",
+    "description": "造成2点伤害 3 次并回复血量10点  （血液滋润）"
+  },
+  {
+    "id": 81,
+    "name": "血爪双击",
+    "cardAtt": 3,
+    "cardValue": 16,
+    "status": null,
+    "description": "造成8点伤害 2次      （血爪双击）"
+  },
+  {
+    "id": 82,
+    "name": "巨浪拍击",
+    "cardAtt": 3,
+    "cardValue": 30,
+    "status": 7,
+    "description": "造成15点伤害 2次并触发潮湿持续3回合  （巨浪拍击）"
+  },
+  {
+    "id": 83,
+    "name": "毒牙",
+    "cardAtt": 3,
+    "cardValue": 10,
+    "status": 8,
+    "description": "造成5点伤害2次并触发中毒直到战斗结束 （毒牙）"
+  },
+  {
+    "id": 84,
+    "name": "寒流",
+    "cardAtt": 3,
+    "cardValue": 10,
+    "status": 26,
+    "description": "造成10点伤害并触发缴械持续3回合 （寒流）"
+  },
+  {
+    "id": 85,
+    "name": "冰之龙息",
+    "cardAtt": 3,
+    "cardValue": 15,
+    "status": 25,
+    "description": "造成15点伤害并触发锁定状态持续2回合 （冰之龙息）"
+  },
+  {
+    "id": 86,
+    "name": "金刚狮吼功",
+    "cardAtt": 3,
+    "cardValue": 24,
+    "status": null,
+    "description": "造成3点伤害8次 （金刚狮吼功）"
+  },
+  {
+    "id": 87,
+    "name": "水龙之怒",
+    "cardAtt": 3,
+    "cardValue": 10,
+    "status": 7,
+    "description": "造成5点伤害2次并触发潮湿持续5回合 （水龙之怒）"
+  },
+  {
+    "id": 88,
+    "name": "吸血",
+    "cardAtt": 3,
+    "cardValue": 10,
+    "status": "特殊效果",
+    "description": "造成5点伤害2次并回复自身血量该技能所造成伤害值 （吸血）"
+  },
+  {
+    "id": 89,
+    "name": "木本精华",
+    "cardAtt": 3,
+    "cardValue": 10,
+    "status": 8,
+    "description": "造成2点伤害5次并触发中毒状态持续2回合  （木本精华）"
+  },
+  {
+    "id": 90,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 91,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 92,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 93,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 94,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 95,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 97,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 98,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 99,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 100,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 101,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 102,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 103,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 104,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 105,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 106,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 107,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 108,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 109,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 110,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 111,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 112,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 113,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 114,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 115,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 116,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 117,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 118,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 119,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 120,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 121,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 123,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 124,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 125,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 126,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 127,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 128,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 129,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 130,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 131,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 132,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 133,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 134,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 135,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 136,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 137,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 138,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 139,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 140,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 141,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 142,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 143,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 144,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 145,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 146,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  },
+  {
+    "id": 147,
+    "name": null,
+    "cardAtt": null,
+    "cardValue": null,
+    "status": null,
+    "description": null
+  }
+]

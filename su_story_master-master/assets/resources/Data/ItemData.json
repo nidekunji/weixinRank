@@ -1,0 +1,142 @@
+[
+  {
+    "ID": "道具编号、先不开发",
+    "name": "道具名称",
+    "add": "待考虑",
+    "effect": "效果id",
+    "description": "描述"
+  },
+  {
+    "ID": 1,
+    "name": "一桶水",
+    "add": false,
+    "effect": "解除燃烧buff",
+    "description": "就是一桶水"
+  },
+  {
+    "ID": 2,
+    "name": "干燥药水",
+    "add": false,
+    "effect": "解除潮湿buff",
+    "description": "神奇的药剂，洗完衣服都用这种药水，免去了晾衣服的苦恼。"
+  },
+  {
+    "ID": 3,
+    "name": "解毒药水",
+    "add": false,
+    "effect": "解除中毒buff",
+    "description": "解所有的毒，除了非洲人这种毒."
+  },
+  {
+    "ID": 4,
+    "name": "导电药水",
+    "add": false,
+    "effect": "解除感电、强电流buff",
+    "description": "将你体内的电流导出去,期间可能会头发竖起,很正常."
+  },
+  {
+    "ID": 5,
+    "name": "清醒药水",
+    "add": false,
+    "effect": "解除眩晕buff",
+    "description": "这就好比你正在做美梦，突然梦醒了。"
+  },
+  {
+    "ID": 6,
+    "name": "稳固药水",
+    "add": false,
+    "effect": "解除溃烂buff",
+    "description": "让你的身体更加稳固。"
+  },
+  {
+    "ID": 7,
+    "name": "钨药水",
+    "add": false,
+    "effect": "解除微波buff",
+    "description": "搞不懂"
+  },
+  {
+    "ID": 8,
+    "name": "抗生素",
+    "add": false,
+    "effect": "解除感染buff",
+    "description": "最伟大的发明"
+  },
+  {
+    "ID": 9,
+    "name": "清洗剂",
+    "add": false,
+    "effect": "解除化学灼烧buff",
+    "description": "EMMM"
+  },
+  {
+    "ID": 10,
+    "name": "勇敢药水",
+    "add": false,
+    "effect": "解除恐惧buff",
+    "description": "让你变得超勇。"
+  },
+  {
+    "ID": 11,
+    "name": "大力药水",
+    "add": false,
+    "effect": "解除力竭buff",
+    "description": "我要喝大力！"
+  },
+  {
+    "ID": 12,
+    "name": "石心药水",
+    "add": false,
+    "effect": "解除不安buff",
+    "description": "让你拥有一副铁石心肠。"
+  },
+  {
+    "ID": 13,
+    "name": "瞪回去",
+    "add": false,
+    "effect": "解除被注视buff",
+    "description": "当深渊凝视你，你又凝视了回去、"
+  },
+  {
+    "ID": 14,
+    "name": "迅捷药水",
+    "add": false,
+    "effect": "获得迅猛buff",
+    "description": "会让你闹肚子的药剂，给人紧迫想结束战斗的感觉，也许这就是让你变快的原因吧。"
+  },
+  {
+    "ID": 15,
+    "name": "生命药水",
+    "add": false,
+    "effect": "回复生命10点",
+    "description": "最神奇的药。"
+  },
+  {
+    "ID": 16,
+    "name": "战士药剂",
+    "add": false,
+    "effect": "攻击力+2",
+    "description": "瓶子上烙印着古老的符文，里面的液体闪烁着诡异的光芒，据说还能壮阳。"
+  },
+  {
+    "ID": 17,
+    "name": "绷带",
+    "add": false,
+    "effect": "解除流血buff",
+    "description": "绷带呀！就是绷带呀！可能还带点止血粉。"
+  },
+  {
+    "ID": 19,
+    "name": "匿踪药剂",
+    "add": false,
+    "effect": "解除锁定buff",
+    "description": "是的，他就是能让别人看不见你，别问了。"
+  },
+  {
+    "ID": 20,
+    "name": "用手捡起武器",
+    "add": false,
+    "effect": "解除缴械buff",
+    "description": "很合理吧。"
+  }
+]

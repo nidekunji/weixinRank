@@ -1,0 +1,44 @@
+[
+  {
+    "id": "预设卡牌编号",
+    "cardAtt": "预设卡牌类型",
+    "cardValue": "数值",
+    "elemenrt": "元素（0代表无"
+  },
+  {
+    "id": 1,
+    "cardAtt": 0,
+    "cardValue": 1,
+    "elemenrt": 0
+  },
+  {
+    "id": 2,
+    "cardAtt": 1,
+    "cardValue": 1,
+    "elemenrt": 0
+  },
+  {
+    "id": 3,
+    "cardAtt": 2,
+    "cardValue": 1,
+    "elemenrt": 0
+  },
+  {
+    "id": 4,
+    "cardAtt": 0,
+    "cardValue": 2,
+    "elemenrt": 0
+  },
+  {
+    "id": 5,
+    "cardAtt": 1,
+    "cardValue": 2,
+    "elemenrt": 0
+  },
+  {
+    "id": 6,
+    "cardAtt": 2,
+    "cardValue": 2,
+    "elemenrt": 0
+  }
+]

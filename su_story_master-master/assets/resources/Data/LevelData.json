@@ -1,0 +1,44 @@
+[
+  {
+    "level": "关卡编号",
+    "monsterId": "怪物随机编号",
+    "dropCard": "掉落的预设卡片编号",
+    "dropItem": "掉落的道具ID"
+  },
+  {
+    "level": 1,
+    "monsterId": "1,2,3",
+    "dropCard": 1,
+    "dropItem": null
+  },
+  {
+    "level": 2,
+    "monsterId": "1,2,3",
+    "dropCard": 2,
+    "dropItem": null
+  },
+  {
+    "level": 3,
+    "monsterId": "1,2,3",
+    "dropCard": 3,
+    "dropItem": null
+  },
+  {
+    "level": 4,
+    "monsterId": "4,5,6",
+    "dropCard": 4,
+    "dropItem": null
+  },
+  {
+    "level": 5,
+    "monsterId": "4,5,6",
+    "dropCard": 5,
+    "dropItem": null
+  },
+  {
+    "level": null,
+    "monsterId": null,
+    "dropCard": 6,
+    "dropItem": null
+  }
+]
